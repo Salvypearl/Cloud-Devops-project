@@ -34,7 +34,7 @@ These components work together to deliver dynamic web applications.
 - AMI: Ubuntu Server 24.04 LTS (64-bit x86/ARM)
 - Instance Type: t3.micro (Free Tier eligible)
 3. Create or select an existing key pair:
-- If creating a new key pair, give it a name eg,: StegHubserver-keypair (this key will be saved in your downloads)
+- If creating a new key pair, give it a name eg,: Hubserver-keypair (this key will be saved in your downloads)
 4. Configure networking:
 - Attach the instance to the desired VPC/Subnet.
 - Enable a Security Group allowing inbound traffic for:
